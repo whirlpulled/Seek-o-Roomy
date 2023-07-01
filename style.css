@@ -1,0 +1,19 @@
+.animated-background {
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+#features{
+  background-color: #fff1eb;
+}
+#testimonial{
+  background-color: #fff1eb;
+}
+#pricing{
+  background-color: #fff1eb;
+}
+
+.icon-square {
+  border-radius: 50%;
+}
+#footer{
+  background-image: linear-gradient(to top, #ace0f9 0%, #fff1eb 100%)
+}
